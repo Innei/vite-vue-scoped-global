@@ -1,0 +1,1 @@
+Reproduction: vite-vue-scoped-global
